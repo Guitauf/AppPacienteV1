@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ConsultaExames</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_cad_usuario">Cadastro Paciente</string>
+    <string name="Nome">Nome</string>
+    <string name="CPF">CPF</string>
+    <string name="Senha">Senha</string>
+    <string name="Sexo">Sexo</string>
+    <string name="Salvar">Salvar</string>
+    <string name="Entrar">Entrar</string>
+    <string name="activity_form_cadastro">Crie uma conta clicando aqui</string>
+    <string name="Aceito_os_termos">Aceito os termos</string>
+    <string name="title_cadastro">Cadastre-se</string>
+    <string name="Data_Nascimento">Data de nascimento</string>
+    <string name="title_item">Consulta</string>
+    <string-array name="opcoes_sexo">
+        <item>Selecione</item>
+        <item>Masculino</item>
+        <item>Feminio</item>
+        <item>Não Informar</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
