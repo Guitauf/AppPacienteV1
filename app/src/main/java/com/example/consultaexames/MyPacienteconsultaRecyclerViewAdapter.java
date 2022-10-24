@@ -23,6 +23,7 @@ public class MyPacienteconsultaRecyclerViewAdapter extends RecyclerView.Adapter<
         mValues = items;
     }
 
+
     @Override
     public ViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
 
